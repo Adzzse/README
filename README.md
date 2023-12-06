@@ -1,2 +1,1 @@
-# README
 Components for README
